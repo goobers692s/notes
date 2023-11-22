@@ -27,3 +27,6 @@ Second, planning ahead is crucial for success. Before starting a new project or 
 - "Programming today is a race between software engineers striving to build bigger and better idiot-proof programs, and the universe trying to produce bigger and better idiots. So far, the universe is winning." - Rich Cook
 
 This quote highlights the ongoing challenge for programmers to create user-friendly and robust software, while also acknowledging the ever-present possibility of unexpected user behavior or input. It serves as a reminder to continually strive for better coding practices and to always consider the potential limitations and vulnerabilities of our programs.
+
+# 2023-11-22
+- "Today's programming wisdom is to focus on writing clean, readable, and maintainable code. It's not just about making it work, but also about making it easy for others (and your future self) to understand and modify. Invest time in planning, documenting, and testing your code. Use meaningful variable names, avoid unnecessary complexity, and follow established coding conventions. Remember, programming is not just about solving problems, but also about creating solutions that can be easily adapted and extended as requirements evolve."
