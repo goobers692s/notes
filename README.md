@@ -141,3 +141,10 @@ This quote reminds us that optimizing code too early in the development process 
 4. Collaborate with others: Team up with other developers, designers, product managers, to gain new perspectives and learn from their experiences.   
 5. Be open-minded: Embrace change and try new tools and techniques. Don't be afraid to make mistakes as they are an essential part of learning.    
 6. Stay organized: Keep track of your projects, skills, learning progress, so that you can easily refer to them and stay focused.
+
+# 2023-12-13
+- Today's programming wisdom is to prioritize tasks, plan ahead, and stay organized. This will help you to be more efficient and productive in your coding endeavors. First, determine which tasks are the most important and focus on them first. By prioritizing your tasks and focusing on the critical ones, you can ensure that your code is of the highest quality and meets your project' s requirements.
+
+Secondly, planning ahead is essential. Before starting a new project, take the time to research and understand the technology and tools you will be using. Knowing the ins and outs of these tools will save you time and frustration later on. Additionally, break down your projects into smaller, manageable tasks. Creating a plan for each task will make it easier to track your progress and ensure you stay on track. 
+ 	
+Finally, stay organised. Use version control systems, like Git, to keep track of your codes changes. Utilizing version controls allows youto easily track down and fix any errors, as well as collaborate with others on your team. Also, keep your work environment tidy and organized, which can help reduce stress and improve your focus. Overall, prioritization, forward planning,and organization are key to success in programming.
