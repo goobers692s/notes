@@ -148,3 +148,6 @@ This quote reminds us that optimizing code too early in the development process 
 Secondly, planning ahead is essential. Before starting a new project, take the time to research and understand the technology and tools you will be using. Knowing the ins and outs of these tools will save you time and frustration later on. Additionally, break down your projects into smaller, manageable tasks. Creating a plan for each task will make it easier to track your progress and ensure you stay on track. 
  	
 Finally, stay organised. Use version control systems, like Git, to keep track of your codes changes. Utilizing version controls allows youto easily track down and fix any errors, as well as collaborate with others on your team. Also, keep your work environment tidy and organized, which can help reduce stress and improve your focus. Overall, prioritization, forward planning,and organization are key to success in programming.
+
+# 2023-12-14
+- "Keep it simple, stupid!"
