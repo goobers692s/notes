@@ -158,3 +158,6 @@ Finally, stay organised. Use version control systems, like Git, to keep track of
 1. Prioritize tasks: When you are working on a project, it is essential to determine which tasks are the most important and which can be completed later. By prioritizing your tasks in this way, you can ensure that you focus on the critical aspects of the project and not get sidetracked by less significant details. 
  2. Plan ahead: Planning is crucial in programming. Before starting a new project or a particular task, take some time to think about the steps you need to take and the resources you will need. Creating a detailed plan will ensure you stay on track and avoid getting lost in the code.  
 3. Stay organized: A clean and organized codebase is a joy to work with. Make sure to keep your code well-structured and documented, using version control systems like Git to track your changes. Organizing and naming your files and folders logically will make it easier for you and other team members to find and understand the coding.
+
+# 2023-12-16
+- "Keep it simple, stupid!"
