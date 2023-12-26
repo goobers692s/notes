@@ -195,3 +195,8 @@ To stay ahead of the curve, make it a habit to read blogs, follow industry leade
 
 # 2023-12-25
 - "Keep it simple, stupid!"
+
+# 2023-12-26
+- Today's programming wisdom is to prioritize tasks, plan your time wisely, and stay organized. This will help you to be more efficient and productive in your coding endeavors.
+
+First, prioritize your tasks. When you're working on a project, it' s important to determine which tasks are most critical to the success of the project. By focusing on these tasks first, you can ensure that your code is of high quality and meets the requirements of your project before moving on to other aspects. You can use techniques such as the MoSCoW method (Must have, Should have and Could have) to categorize your task and prioritize them accordingly.
