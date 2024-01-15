@@ -301,3 +301,10 @@ In practice, this means:
 
 # 2024-01-14
 - "Keep it simple, stupid!"
+
+# 2024-01-15
+- Today's programming wisdom is to prioritize tasks, plan ahead, and stay organized. This will help you to be more efficient and productive in your coding endeavors.
+
+First, prioritize your tasks. When you're working on a project, it' s important to determine which tasks are most critical to the success of the project. By focusing on these tasks first, you can ensure that your code is of high quality and meets the requirements of your project timeline. You can use techniques like the MoSCoW method (Must have, Should have , Could have and Won't have) to categorize and prioritize the tasks in a practical way. 
+ 其次，提前计划。在开始编程之前，确保你了解项目的需求和目标。这将帮助你在编写代码时避免不必要的错误和更改。使用版本控制系统（如Git）可以帮助你跟踪代码的更改，以便在需要时轻松回滚到之前的版本。
+ 最后，保持组织。一个整洁、有组织的代码库可以提高你的工作效率，减少错误，并使团队协作更加顺利。遵循编码规范和最佳实践，如使用有意义的变量名、添加注释和遵循DRY（Don' t repeat yourself）原则。此外，定期审查和重构代码可以帮助保持代码质量，并在需要时使用新技术和工具来优化代码。
