@@ -377,3 +377,9 @@ One of the most important aspects of programming is problem-solving. When faced 
 - "Today's programming wisdom: 'Simplicity is the ultimate sophistication.' — Leonardo da Vinci. As a programmer, strive to write clear, concise code that's easy to understand and maintain. Complexity often breeds bugs and hinders progress; simplify whenever possible without sacrificing functionality. Remember that you're not just writing code for the machine, but also for future developers (including yourself) to read and comprehend." 
 
 In practical terms, this could mean using appropriate data structures, breaking down complex problems into smaller, manageable functions, commenting your code effectively, and following established design patterns and principles such as SOLID or KISS (Keep It Simple, Stupid).
+
+# 2024-01-30
+- Today's programming wisdom: "Simplicity is the ultimate sophistication. In software development, strive to write clear, concise, and readable code that can be easily understood and maintained by others. Always consider the future developer who will read your code – it might be you six months from now. Modularity, documentation, and adherence to established best practices are key elements in achieving this simplicity. Remember, code is written once but read many times over its lifetime." 
+
+Translation: 
+"简单是最终的复杂。在软件开发中，努力编写清晰、简洁、易读的代码，以便他人能够轻松理解和维护。始终考虑将来会阅读你代码的开发者——六个月后那可能就是你自己。模块化、文档编写以及遵循既定的最佳实践是在实现这种简单性方面的重要因素。请记住，代码只被编写一次，但在其整个生命周期中会被多次阅读。”
