@@ -506,3 +506,9 @@ Remember, also, that 'Premature optimization is the root of all evil' - Donald K
 
 To be successful as a programmer, you must also have a strong foundation in core concepts and principles. Understanding the basics of computer science, data structures, and algorithms will enable you to tackle more complex problems and develop innovative solutions. Additionally, practice makes perfect, so keep practicing and refining your skills through projects and exercises. 
  - 来自NLP
+
+# 2024-02-23
+- Today's programming wisdom is to prioritize tasks, plan ahead, and stay organized. This will help you to be more efficient and productive in your work. First, prioritize your tasks based on their importance and deadlines. By giving priority to the tasks that need to get done first, you can ensure that you are making progress on the right things.
+
+Second, always plan beforehand. When starting a new project or working on a complex task, create a plan with a timeline and break it down into smaller, manageable steps. Having a clear plan will keep you focused and help prevent you from getting lost in the details. Planning also helps you estimate how long tasks will take, allowing you better manage your time. 
+ - 来自helpful assistant
