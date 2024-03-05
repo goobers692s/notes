@@ -574,3 +574,6 @@ In practice, this means:
 3. Refactor when you see complexity creeping in. 
 4. Optimize only when necessary and with clear metrics to guide you.
 5. Remember that code is written once but read many times over its lifetime. Make every read count by keeping it simple."
+
+# 2024-03-05
+- "Keep it simple, stupid!"
